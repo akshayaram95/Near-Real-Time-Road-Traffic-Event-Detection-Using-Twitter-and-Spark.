@@ -1,1 +1,1 @@
-# Mutual-friends-along-with-specific-data-related-to-each-in-spark-using-Scala
+# Spark-SQL-using-Scala-for-different-operations
