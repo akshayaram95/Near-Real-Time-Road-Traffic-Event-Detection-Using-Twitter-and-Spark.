@@ -1,12 +1,1 @@
-# Mutual_friends_Hadoop
-# Mutual_Friends_top10_Hadoop
-# Mutual_Friends_top10_Hadoop
-# Mutual_Friends_top10_Hadoop
-# Mean_and_Variance_Hadoop
-# Mean_and_Variance_Hadoop
-# Mean_and_Variance_Hadoop
-# Mutual_Friends_top10_Hadoop
-# Max_Min_Median_Hadoop
-# Matrix-Multiplication
-# Sentiment-Analysis-on-real-time-streaming-data-arriving-from-twitter-streams
-# Recommendation-System
+# Sentiment-analysis-on-real-time-streaming-data-arriving-from-twitter-streams
